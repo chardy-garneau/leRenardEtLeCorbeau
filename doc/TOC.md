@@ -34,5 +34,11 @@ aspects of your website/web app (e.g.: the performance, security, etc.).
 * misc.md
 * changelog.md
 * licence.txt
+* accueil
+* membres de l'équipe
+* normes
+* nomenclatures
+* rôles
+* workflows
 
 
