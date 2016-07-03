@@ -30,10 +30,6 @@ aspects of your website/web app (e.g.: the performance, security, etc.).
 
 ## Table des matières
 
-* faq.md
-* misc.md
-* changelog.md
-* licence.txt
 * accueil
 * membres de l'équipe
 * normes
