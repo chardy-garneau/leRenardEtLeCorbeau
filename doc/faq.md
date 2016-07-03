@@ -1,10 +1,8 @@
-[HTML5 Boilerplate homepage](https://html5boilerplate.com) | [Documentation
-table of contents](TOC.md)
+[HTML5 Boilerplate Accueil](https://html5boilerplate.com) | [Documentation de la table des matières ](TOC.md)
 
-# Frequently asked questions
+# Questions fréquentes
 
-* [Why is the Google Analytics code at the bottom? Google recommends it be
-  placed in the `<head>`.](#why-is-the-google-analytics-code-at-the-bottom-google-recommends-it-be-placed-in-the-head)
+* [Comment installe-t-on l'application sur l'ordinateur?](#Comment?)
 * [How can I integrate Bootstrap with HTML5
   Boilerplate?](#how-can-i-integrate-bootstrap-with-html5-boilerplate)
 * [Do I need to upgrade my site each time a new version of HTML5 Boilerplate is
