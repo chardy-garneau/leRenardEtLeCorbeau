@@ -2,7 +2,7 @@
 
 # Questions fréquentes
 
-* [Comment installe-t-on l'application sur l'ordinateur?](#Comment?)
+* [Comment installe-t-on l'application sur l'ordinateur?](#Comment installe-t-on l'application sur l'ordinateur?)
 * [How can I integrate Bootstrap with HTML5
   Boilerplate?](#how-can-i-integrate-bootstrap-with-html5-boilerplate)
 * [Do I need to upgrade my site each time a new version of HTML5 Boilerplate is
@@ -13,12 +13,9 @@
 --
 
 
-### Why is the Google Analytics code at the bottom? Google recommends it be placed in the `<head>`.
+### Comment installe-t-on l'application sur l'ordinateur?
 
-The main advantage of placing it in the `<head>` is that you will track the
-user's `pageview` even if they leave the page before it has been fully loaded.
-However, having the code at the bottom of the page [helps improve
-performance](https://stevesouders.com/efws/inline-scripts-bottom.php).
+Vous devez télécharger l'application "desktop" et suivre les instructions. [Télécharger](https://play.google.com/store?hl=fr).
 
 
 ### How can I integrate [Bootstrap](http://getbootstrap.com/) with HTML5 Boilerplate?
