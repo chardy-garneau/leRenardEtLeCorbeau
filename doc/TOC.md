@@ -29,3 +29,8 @@ aspects of your website/web app (e.g.: the performance, security, etc.).
   Ant based build script.
 
 ## Tables des matières
+* Accueil
+* Normes
+* Nomenclatures
+* Rôles
+* Workflows
