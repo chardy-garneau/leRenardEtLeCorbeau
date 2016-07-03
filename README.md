@@ -1,4 +1,7 @@
 # leRenardEtLeCorbeau
-Structure d'un projet GIT de développement web 
+Structure d'un projet GIT de développement web.
 
-verifier pour le besoin de installer fontawasome, pour ajouter les icones
+Vérifier, pour le besoin, d'installer Font Awesome, pour ajouter les icônes.
+
+Tables des matières
+Licence
