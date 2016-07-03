@@ -31,10 +31,9 @@ aspects of your website/web app (e.g.: the performance, security, etc.).
 ## Table des matières
 
 * [Accueil](https://github.com/chardy-garneau/leRenardEtLeCorbeau/wiki/Accueil)
-* membres de l'équipe
-* normes
-* nomenclatures
-* rôles
-* workflows
+* [Normes](https://github.com/chardy-garneau/leRenardEtLeCorbeau/wiki/Normes)
+* [Nomenclatures](https://github.com/chardy-garneau/leRenardEtLeCorbeau/wiki/Nomenclature)
+* [Rôles](https://github.com/chardy-garneau/leRenardEtLeCorbeau/wiki/R%C3%B4les)
+* [Workflows](https://github.com/chardy-garneau/leRenardEtLeCorbeau/wiki/Workflows)
 
 
