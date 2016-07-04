@@ -16,5 +16,5 @@ Vous devez télécharger l'application "desktop" et suivre les instructions. [T�
 
 ### Doit-on faire la mise à jour de l'application?
 
-Non, Vous n'avez pas à faire la mise à jour de l'application.
+Non, vous n'avez pas à faire la mise à jour de l'application.
 
