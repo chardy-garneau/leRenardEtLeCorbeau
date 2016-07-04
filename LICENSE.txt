@@ -8,14 +8,15 @@ Cette notion de "libre" au sens utilisé par les logiciels libres inclue systém
 
 En effet, les licences CC peuvent jouer sur 4 caractéristiques :
 
-Attribution (CC BY)
-
+* Attribution (CC BY)
 Attribution CC BYTu peux distribuer, remixer, arranger, adapter, même à des fins commerciales, à condition de citer l'auteur.
 
-Pas de modification (CC ND, comme "No Derivatives")
-
+* Pas de modification (CC ND, comme "No Derivatives")
 Pas de modification CC NDTu peux redistribuer, même à des fins commerciales, mais sans avoir le droit de faire des modifications sur l'oeuvre originale.
 
-Pas d'utilisation commerciale (CC NC, comme "Non Commercial")
-
+* Pas d'utilisation commerciale (CC NC, comme "Non Commercial")
 Il est cette fois interdit d'utiliser l'oeuvre à des fins commerciales.
+
+* Partage dans les mêmes conditions (CC SA, comme "Share Alike")
+Le but ici est de forcer à appliquer la même licence à toutes les oeuvres se basant sur une oeuvre originale. C'est le principe essentiel que l'on retrouve dans les licences de logiciels libres, mais aussi celle de Wikipédia.
+
