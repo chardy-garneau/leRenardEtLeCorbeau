@@ -1,19 +1,22 @@
-Copyright (c) HTML5 Boilerplate
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
-of the Software, and to permit persons to whom the Software is furnished to do
-so, subject to the following conditions:
+## Creative Commons
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Creative Commons est une organisation à but non lucratif qui propose une alternative aux droits de propriété intellectuelle habituels des États.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Attention cependant à la confusion, une licence Creative Commons (CC) ne veut pas dire systématiquement une licence libre !
+
+Cette notion de "libre" au sens utilisé par les logiciels libres inclue systématiquement les droits d'utilisation, de modification, de redistribution et de publication, ce que certaines licences CC peuvent limiter.
+
+En effet, les licences CC peuvent jouer sur 4 caractéristiques :
+
+* Attribution (CC BY)
+Attribution CC BYTu peux distribuer, remixer, arranger, adapter, même à des fins commerciales, à condition de citer l'auteur.
+
+* Pas de modification (CC ND, comme "No Derivatives")
+Pas de modification CC NDTu peux redistribuer, même à des fins commerciales, mais sans avoir le droit de faire des modifications sur l'oeuvre originale.
+
+* Pas d'utilisation commerciale (CC NC, comme "Non Commercial")
+Il est cette fois interdit d'utiliser l'oeuvre à des fins commerciales.
+
+* Partage dans les mêmes conditions (CC SA, comme "Share Alike")
+Le but ici est de forcer à appliquer la même licence à toutes les oeuvres se basant sur une oeuvre originale. C'est le principe essentiel que l'on retrouve dans les licences de logiciels libres, mais aussi celle de Wikipédia.
